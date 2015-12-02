@@ -1,0 +1,12 @@
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Fonts\Pericles8.xnb
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Gem.xnb
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\PlatformTiles.xnb
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Gemstone Hunter2.exe
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Gemstone Hunter2.pdb
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Tile Engine.dll
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Tile Engine.pdb
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\obj\x86\Debug\Gemstone Hunter2.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\obj\x86\Debug\Gemstone Hunter2.exe
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\obj\x86\Debug\Gemstone Hunter2.pdb

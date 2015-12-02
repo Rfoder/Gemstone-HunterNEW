@@ -1,0 +1,12 @@
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Tile Engine\bin\x86\Debug\Tile Engine.dll
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Tile Engine\bin\x86\Debug\Tile Engine.pdb
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Tile Engine\obj\x86\Debug\Tile Engine.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Tile Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Tile Engine\obj\x86\Debug\Tile Engine.dll
+C:\Visual Studio 2012\Projects\Gemstone Hunter2\Tile Engine\obj\x86\Debug\Tile Engine.pdb
+I:\Programing for game dev\Gemstone Hunter2\Tile Engine\bin\x86\Debug\Tile Engine.dll
+I:\Programing for game dev\Gemstone Hunter2\Tile Engine\bin\x86\Debug\Tile Engine.pdb
+I:\Programing for game dev\Gemstone Hunter2\Tile Engine\obj\x86\Debug\Tile Engine.csprojResolveAssemblyReference.cache
+I:\Programing for game dev\Gemstone Hunter2\Tile Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Programing for game dev\Gemstone Hunter2\Tile Engine\obj\x86\Debug\Tile Engine.dll
+I:\Programing for game dev\Gemstone Hunter2\Tile Engine\obj\x86\Debug\Tile Engine.pdb

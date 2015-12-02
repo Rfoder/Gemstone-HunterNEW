@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemstone Hunter2", "Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2.csproj", "{9155A007-AA1A-4084-ADE4-D5BF043426E9}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Gemstone Hunter2Content", "Gemstone Hunter2\Gemstone Hunter2Content\Gemstone Hunter2Content.contentproj", "{B349F93B-D6A0-44CF-BB02-58FF8F157FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tile Engine", "Tile Engine\Tile Engine.csproj", "{EF1636DE-58C2-444E-A55E-7E29403E7BD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level Editor", "Level Editor\Level Editor\Level Editor.csproj", "{1ECA183A-9754-42F3-AA9E-A81C48CF15D1}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Level EditorContent", "Level Editor\Level EditorContent\Level EditorContent.contentproj", "{0E54C4FD-1341-4051-8891-04E76A9250EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9155A007-AA1A-4084-ADE4-D5BF043426E9}.Debug|x86.ActiveCfg = Debug|x86
+		{9155A007-AA1A-4084-ADE4-D5BF043426E9}.Debug|x86.Build.0 = Debug|x86
+		{9155A007-AA1A-4084-ADE4-D5BF043426E9}.Release|x86.ActiveCfg = Release|x86
+		{9155A007-AA1A-4084-ADE4-D5BF043426E9}.Release|x86.Build.0 = Release|x86
+		{B349F93B-D6A0-44CF-BB02-58FF8F157FE5}.Debug|x86.ActiveCfg = Debug|x86
+		{B349F93B-D6A0-44CF-BB02-58FF8F157FE5}.Release|x86.ActiveCfg = Release|x86
+		{EF1636DE-58C2-444E-A55E-7E29403E7BD9}.Debug|x86.ActiveCfg = Debug|x86
+		{EF1636DE-58C2-444E-A55E-7E29403E7BD9}.Debug|x86.Build.0 = Debug|x86
+		{EF1636DE-58C2-444E-A55E-7E29403E7BD9}.Release|x86.ActiveCfg = Release|x86
+		{EF1636DE-58C2-444E-A55E-7E29403E7BD9}.Release|x86.Build.0 = Release|x86
+		{1ECA183A-9754-42F3-AA9E-A81C48CF15D1}.Debug|x86.ActiveCfg = Debug|x86
+		{1ECA183A-9754-42F3-AA9E-A81C48CF15D1}.Debug|x86.Build.0 = Debug|x86
+		{1ECA183A-9754-42F3-AA9E-A81C48CF15D1}.Release|x86.ActiveCfg = Release|x86
+		{1ECA183A-9754-42F3-AA9E-A81C48CF15D1}.Release|x86.Build.0 = Release|x86
+		{0E54C4FD-1341-4051-8891-04E76A9250EC}.Debug|x86.ActiveCfg = Debug|x86
+		{0E54C4FD-1341-4051-8891-04E76A9250EC}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
