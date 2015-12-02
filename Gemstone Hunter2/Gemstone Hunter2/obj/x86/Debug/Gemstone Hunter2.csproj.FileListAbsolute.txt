@@ -10,3 +10,7 @@ C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter
 C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\obj\x86\Debug\Gemstone Hunter2.exe
 C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\obj\x86\Debug\Gemstone Hunter2.pdb
+C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\obj\x86\Debug\Gemstone Hunter2.exe
+C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\obj\x86\Debug\Gemstone Hunter2.pdb
+C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\obj\x86\Debug\Gemstone Hunter2.csprojResolveAssemblyReference.cache
+C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

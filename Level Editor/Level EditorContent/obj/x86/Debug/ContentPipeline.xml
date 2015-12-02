@@ -7,8 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>I:\Programing for game dev\Gemstone Hunter2\Level Editor\Level Editor\bin\x86\Debug\Content\Fonts\Pericles8.xnb</Output>
-      <Time>2015-11-30T15:24:30-05:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Level Editor\Level Editor\bin\x86\Debug\Content\Fonts\Pericles8.xnb</Output>
+      <Time>2015-12-02T14:51:15.6780119-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Gem.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>I:\Programing for game dev\Gemstone Hunter2\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Gem.xnb</Output>
-      <Time>2015-11-30T15:24:48-05:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Gem.xnb</Output>
+      <Time>2015-12-02T14:51:15.6850063-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\PlatformTiles.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>I:\Programing for game dev\Gemstone Hunter2\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\PlatformTiles.xnb</Output>
-      <Time>2015-11-30T15:24:48-05:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\PlatformTiles.xnb</Output>
+      <Time>2015-12-02T14:51:15.6880039-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\TitleScreen.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>I:\Programing for game dev\Gemstone Hunter2\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
-      <Time>2015-11-30T15:24:48-05:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
+      <Time>2015-12-02T14:51:15.6959975-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -43,10 +43,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>I:\Programing for game dev\Gemstone Hunter2\Level Editor\Level EditorContent\</RootDirectory>
-      <LoggerRootDirectory>I:\Programing for game dev\Gemstone Hunter2\Level Editor\Level Editor\</LoggerRootDirectory>
-      <IntermediateDirectory>I:\Programing for game dev\Gemstone Hunter2\Level Editor\Level EditorContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>I:\Programing for game dev\Gemstone Hunter2\Level Editor\Level Editor\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Level Editor\Level EditorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Level Editor\Level Editor\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Level Editor\Level EditorContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Level Editor\Level Editor\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

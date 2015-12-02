@@ -19,6 +19,8 @@ namespace Gemstone_Hunter2
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        //pg. 365
+        Player player;
 
         public Game1()
         {
@@ -35,6 +37,11 @@ namespace Gemstone_Hunter2
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
+            //pg. 365
+            this.graphics.PreferredBackBufferWidth = 800;
+            this.graphics.PreferredBackBufferHeight = 600;
+            this.graphics.ApplyChanges();
+
 
             base.Initialize();
         }
@@ -52,12 +59,16 @@ namespace Gemstone_Hunter2
             //pg.309
             TileMap.Initialize(
                 Content.Load<Texture2D>(@"Textures\PlatformTiles"));
-            TileMap.SetTileAtCell(3, 3, 1, 10);
+            //TileMap.SetTileAtCell(3, 3, 1, 10);
 
             Camera.WorldRectangle = new Rectangle(0, 0, 160 * 48, 12 * 48);
             Camera.Position = Vector2.Zero;
             Camera.ViewPortWidth = 800;
             Camera.ViewPortHeight = 600;
+            //pg. 366
+            player = new Player(Content);
+            player.WorldLocation = new Vector2(350, 300);
+
 
         }
 
@@ -82,6 +93,8 @@ namespace Gemstone_Hunter2
                 this.Exit();
 
             // TODO: Add your update logic here
+            //pg. 366
+            player.Update(gameTime);
 
             base.Update(gameTime);
         }
@@ -100,6 +113,8 @@ namespace Gemstone_Hunter2
                 SpriteSortMode.BackToFront,
                 BlendState.AlphaBlend);
             TileMap.Draw(spriteBatch);
+            //pg. 366
+            player.Draw(spriteBatch);
             spriteBatch.End();
 
            

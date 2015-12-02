@@ -1,2 +1,3 @@
 C:\Visual Studio 2012\Projects\Gemstone Hunter2\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
 I:\Programing for game dev\Gemstone Hunter2\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache

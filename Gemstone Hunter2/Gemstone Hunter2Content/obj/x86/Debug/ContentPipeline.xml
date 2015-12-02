@@ -7,8 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Fonts\Pericles8.xnb</Output>
-      <Time>2015-11-30T15:18:14.5533135-05:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Fonts\Pericles8.xnb</Output>
+      <Time>2015-12-02T14:51:15.3842471-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Gem.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Gem.xnb</Output>
-      <Time>2015-11-30T15:03:24.1694404-05:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Gem.xnb</Output>
+      <Time>2015-12-02T14:51:15.3912415-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\PlatformTiles.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\PlatformTiles.xnb</Output>
-      <Time>2015-11-30T15:03:24.1724407-05:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\PlatformTiles.xnb</Output>
+      <Time>2015-12-02T14:51:15.3942391-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\TitleScreen.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
-      <Time>2015-11-30T15:03:24.1744409-05:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
+      <Time>2015-12-02T14:51:15.4022327-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\Gem.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\Gem.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\Gem.xnb</Output>
+      <Time>2015-12-02T16:55:27.3409709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\MonsterA\Die.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Die.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Die.xnb</Output>
+      <Time>2015-12-02T16:55:27.3769709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\MonsterA\Idle.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Idle.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Idle.xnb</Output>
+      <Time>2015-12-02T16:55:27.4289709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\MonsterA\Run.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Run.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Run.xnb</Output>
+      <Time>2015-12-02T16:55:27.4779709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\MonsterB\Die.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Die.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Die.xnb</Output>
+      <Time>2015-12-02T16:55:27.5519709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\MonsterB\Idle.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Idle.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Idle.xnb</Output>
+      <Time>2015-12-02T16:55:27.5909709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\MonsterB\Run.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Run.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Run.xnb</Output>
+      <Time>2015-12-02T16:55:27.6209709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\MonsterC\Die.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Die.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Die.xnb</Output>
+      <Time>2015-12-02T16:55:27.6569709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\MonsterC\Idle.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Idle.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Idle.xnb</Output>
+      <Time>2015-12-02T16:55:27.6869709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\MonsterC\Run.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Run.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Run.xnb</Output>
+      <Time>2015-12-02T16:55:27.7099709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\MonsterD\Die.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Die.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Die.xnb</Output>
+      <Time>2015-12-02T16:55:27.7489709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\MonsterD\Idle.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Idle.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Idle.xnb</Output>
+      <Time>2015-12-02T16:55:27.8009709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\MonsterD\Run.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Run.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Run.xnb</Output>
+      <Time>2015-12-02T16:55:27.8319709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\Player\Celebrate.png</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\Player\Celebrate.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\Player\Celebrate.xnb</Output>
+      <Time>2015-12-02T16:55:27.9019709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\Player\Die.png</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\Player\Die.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\Player\Die.xnb</Output>
+      <Time>2015-12-02T16:55:27.9329709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\Player\Idle.png</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\Player\Idle.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\Player\Idle.xnb</Output>
+      <Time>2015-12-02T16:55:27.9639709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\Player\Jump.png</Source>
@@ -187,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\Player\Jump.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\Player\Jump.xnb</Output>
+      <Time>2015-12-02T16:55:27.9899709-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Sprites\Player\Run.png</Source>
@@ -196,19 +196,19 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\Player\Run.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Output>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\Textures\Sprites\Player\Run.xnb</Output>
+      <Time>2015-12-02T16:55:28.0219709-05:00</Time>
     </Item>
-    <BuildSuccessful>false</BuildSuccessful>
+    <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Visual Studio 2012\Projects\Gemstone Hunter2\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\G00233075\Desktop\Gemstone-HunterNEW\Gemstone Hunter2\Gemstone Hunter2\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
