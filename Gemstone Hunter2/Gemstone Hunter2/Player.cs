@@ -27,7 +27,7 @@ namespace Gemstone_Hunter2
         {
             animations.Add("idle",
                 new AnimationStrip(
-                    content.Load < Texture2D(@"Textures\Sprites\Player\ Idle"),
+                    content.Load <Texture2D>(@"Textures\Sprites\Player\ Idle"),
                     48,
                     "idle"));
             animations["idle"].LoopAnimation = true;

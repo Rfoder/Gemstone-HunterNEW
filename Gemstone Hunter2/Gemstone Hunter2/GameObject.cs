@@ -189,7 +189,7 @@ namespace Gemstone_Hunter2
         #region Public Methods
         public void PlayAnimation(string name)
         {
-            if (!(name == null) && animations.ContainsKey(name))
+            if (!(name==null) && animations.ContainsKey(name))
             {
                 currentAnimation = name;
                 animations[name].Play();
@@ -203,6 +203,7 @@ namespace Gemstone_Hunter2
             float elapsed = (float)gameTime.ElapsedGameTime.TotalSeconds;
 
             updateAnimation(gameTime);
+            
             if (velocity.Y != 0)
             {
                 onGround = false;
@@ -214,7 +215,7 @@ namespace Gemstone_Hunter2
             newPosition = new Vector2(
                 MathHelper.Clamp(newPosition.X, 0,
                 Camera.WorldRectangle.Width - frameWidth),
-                MathHelper.Clamp(newPosition.Y, 2 * (-TileMap.TileHeight),
+                MathHelper.Clamp(newPosition.Y, 2*(-TileMap.TileHeight),
                 Camera.WorldRectangle.Height - frameHeight));
             worldLocation = newPosition;
         }

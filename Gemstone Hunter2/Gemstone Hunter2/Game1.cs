@@ -59,7 +59,7 @@ namespace Gemstone_Hunter2
             //pg.309
             TileMap.Initialize(
                 Content.Load<Texture2D>(@"Textures\PlatformTiles"));
-            //TileMap.SetTileAtCell(3, 3, 1, 10);
+            // TileMap.SetTileAtCell(3, 3, 1, 10);
 
             Camera.WorldRectangle = new Rectangle(0, 0, 160 * 48, 12 * 48);
             Camera.Position = Vector2.Zero;
